@@ -1,0 +1,2 @@
+C:\Users\Berk\source\repos\VeriYapilariDoublyLinkedList\Debug\VeriYapilariDoublyLinkedList.exe
+C:\Users\Berk\source\repos\VeriYapilariDoublyLinkedList\Debug\VeriYapilariDoublyLinkedList.pdb
